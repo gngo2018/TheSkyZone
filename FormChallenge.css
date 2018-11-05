@@ -1,0 +1,128 @@
+body{
+    background-color: skyblue;
+    text-align:center;
+}
+.wrapper{
+    margin: 0 auto;
+}
+.navbar{
+    text-align: right;
+    background-color:grey;
+    border: 2px solid white;
+    border-radius: 5px;
+    top:0%;
+    left:0%;
+    position: fixed;
+    width:99.75%;
+}
+
+#about{
+    font-size: 16px;
+    font-style:bold;
+    border:solid 2px white;
+    border-radius: 4px;
+    margin-right:1%;
+}
+
+#register{
+    font-size: 16px;
+    font-style:bold;
+    border:solid 2px white;
+    border-radius: 4px;
+    margin-right:1%;
+}
+
+.form{
+    border:3px solid black;
+    border-radius:3%;
+    margin-top: 10%;
+    margin-right: 35%;
+    margin-bottom: 30%;
+    margin-left: 35%;
+    background-color:lightgrey;
+}
+
+.form h1{
+    text-align:left;
+    padding: 5% 0% 0% 12%;
+    color:black;
+    font-family: "Arial", Verdana, Sans-serif;
+}
+
+.form p{
+    text-align:left;
+    padding: 0em 0em 0em 7.5em;
+    
+}
+
+
+#submit{
+background-color:navy;
+font-size:16px;
+font-style:bold;
+color:white;
+margin-left:8%;
+text-align:center;
+width:50%;
+border: solid 2px black;
+border-radius:4px;
+}
+
+input{
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+}
+
+.links{
+    padding: 0% 0% 10% 0%;
+}
+
+.amazon{
+    margin-left: 2%;
+    margin-right:2%;
+}
+
+#amazon{
+    border-radius:50%;
+}
+
+.facebook{
+    margin-right:2%;
+    margin-left: 2%;
+}
+
+#facebook{
+    border-radius:50%;
+}
+
+.instagram{
+    margin-right:2%;
+    margin-left: 2%;
+}
+
+#instagram{
+    border-radius:50%;
+}
+
+.LinkedIn{
+    margin-right:2%;
+    margin-left: 2%;
+}
+
+#LinkedIn{
+    border-radius:50%;
+}
+
+.Github{
+    margin-right:2%;
+    margin-left: 2%;
+}
+
+#Github{
+    border-radius:50%;
+
+}
