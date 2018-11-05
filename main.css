@@ -143,7 +143,7 @@ body{
 }
 .otheritems{
     width:57%;
-    background-image:url("../4-assets/upfeathers.png");
+    background-image:url("assets/upfeathers.png");
     padding: 1% 0 0 2%;
     display: inline-block;
     border: solid 4px lightblue;
